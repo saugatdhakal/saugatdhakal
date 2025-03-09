@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saugat Dhakal</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate tech enthusiast with a **Bachelor’s degree in Information Technology**. I love exploring new technologies and building user-friendly applications. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugatdhakal&label=Profile%20views&color=0e75b6&style=flat" alt="saugatdhakal" /> </p>
 
+- 🚀 Currently, I'm learning **React** and enhancing my front-end development skills. I'm actively looking for opportunities in **front-end development**.
+  
+- 💡 Previously, I worked with **Laravel** and have experience in backend development. Now, I'm diving deeper into the **MERN stack** to expand my skills.
+  
 - 🌱 I’m currently learning **React and Node.js**
 
 - 💬 Ask me about **react,nodejs,laravel**
