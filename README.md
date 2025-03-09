@@ -6,8 +6,6 @@
 - 🚀 Currently, I'm learning **React** and enhancing my front-end development skills. I'm actively looking for opportunities in **front-end development**.
   
 - 💡 Previously, I worked with **Laravel** and have experience in backend development. Now, I'm diving deeper into the **MERN stack** to expand my skills.
-  
-- 🌱 I’m currently learning **React and Node.js**
 
 - 💬 Ask me about **react,nodejs,laravel**
 
